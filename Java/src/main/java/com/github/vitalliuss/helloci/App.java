@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
 
-        System.out.println( "Hello CI! Hello CI! Hello CI !!! Hello CI" );
+        System.out.println( "Hello CI!!!! Hello CI! Hello CI !!! Hello CI" );
 
     }
     
